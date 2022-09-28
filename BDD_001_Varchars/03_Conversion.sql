@@ -1,5 +1,9 @@
--- Etape 3
+
+--------------------------------- ETAPE 3 --------------------------------------------------
+--
 -- Test de conversion de nvarchar en varchar
+--
+
 SELECT 
 	* 
 FROM 

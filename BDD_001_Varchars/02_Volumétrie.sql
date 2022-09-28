@@ -1,4 +1,9 @@
+
+--------------------------------- ETAPE 2 --------------------------------------------------
+--
 -- Insertion d'un million de lignes 
+--
+
 WITH lines AS (
     SELECT 
 		1 AS line_num,

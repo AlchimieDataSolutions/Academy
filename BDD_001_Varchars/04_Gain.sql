@@ -1,4 +1,9 @@
+
+--------------------------------- ETAPE 4 (BONUS) --------------------------------------------------
+--
 -- Calcul de l'utilisation du disque
+--
+
 SELECT 
     t.NAME AS TableName,    
     p.rows,    
